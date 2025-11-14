@@ -3,7 +3,7 @@
 **By Ayesha Shaikh**
 
 
-# 🚀 **Global Superstore – Power BI Data Analytics Project**
+ **Global Superstore – Power BI Data Analytics Project**
 
 This project presents a complete **end-to-end data analytics solution** using Power BI.
 It includes data cleaning, data modeling, DAX measure creation, and building interactive dashboards with business insights and recommendations.
@@ -12,7 +12,7 @@ The dataset used is **Global Superstore**, a retail sales dataset containing ord
 
 
 
-# 📂 **Project Structure**
+ **Project Structure**
 
 
 Professional title page with project name, analyst details, and report overview.
@@ -89,7 +89,7 @@ DateTable[Date] (1) → Orders[Order Date] (*)
 Marked DateTable as the official date table for time intelligence.
 
 
-# 📊 **DAX Measures Created**
+ **DAX Measures Created**
 
 Key measures include:
 
@@ -156,4 +156,5 @@ Global Superstore Dataset
 **Conclusion**
 
 This project demonstrates a full analytical workflow — from data preparation to insight generation and storytelling. The interactive dashboards provide valuable business intelligence and help stakeholders make data-driven decisions.
+
 
