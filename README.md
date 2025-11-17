@@ -113,7 +113,6 @@ These measures helped build interactive charts and KPIs.
 
 * **Technology** is the highest-performing category.
 * The **Consumer Segment** generates the most sales.
-* **Q3 & Q4** show the strongest seasonal performance.
 * **Central Region** contributes lower profit compared to West and East.
 * Some high-selling products deliver **low margins** → pricing strategy opportunities.
 
@@ -156,5 +155,6 @@ Global Superstore Dataset
 **Conclusion**
 
 This project demonstrates a full analytical workflow — from data preparation to insight generation and storytelling. The interactive dashboards provide valuable business intelligence and help stakeholders make data-driven decisions.
+
 
 
